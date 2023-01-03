@@ -9,8 +9,8 @@
 7) Background image scrolling effect - https://bgscroll.netlify.app/
 8) Real-time Character counter - https://charcnt.netlify.app/
 9) Button Ripple Effect - https://bttnrippleeffect.netlify.app/
-10) Heart animation - https://minihearts.netlify.app/ \n
-11)Mini Calendar - https://miniclndr.netlify.app/ \n
-12)Random Colour Generator - https://clrcode.netlify.app/ \n
-13)Password Generator - https://psswdgntr.netlify.app/ \n
+10) Heart animation - https://minihearts.netlify.app/ 
+11)Mini Calendar - https://miniclndr.netlify.app/ 
+12)Random Colour Generator - https://clrcode.netlify.app/
+13)Password Generator - https://psswdgntr.netlify.app/
 14)Video popup - https://trailerpopup.netlify.app/
